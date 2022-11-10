@@ -1,2 +1,8 @@
-# enc
-Python 3 Marshal encoder
+```
+git clone https://github.com/GoodboyC/enc
+```
+
+```
+cd enc
+python run.py
+'''
